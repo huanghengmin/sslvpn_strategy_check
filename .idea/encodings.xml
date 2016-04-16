@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/dao/AccountDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/dao/BackUpDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/dao/RoleDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/dao/SafePolicyDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/dao/UserOperLogDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/dao/impl/AccountDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/dao/impl/BackUpDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/dao/impl/RoleDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/dao/impl/SafePolicyDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/dao/impl/UserOperLogDaoImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/Account.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/Role.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/SafePolicy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/UserOperLog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/xml/Account.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/xml/BackUp.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/xml/Role.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/xml/RouteUser.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/xml/SafePolicy.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/xml/Terminal.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/xml/TrustTerminal.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/xml/UserGps.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/java/com/hzih/sslvpn/domain/xml/UserRouteUser.hbm.xml" charset="UTF-8" />
+  </component>
+</project>
